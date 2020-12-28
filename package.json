@@ -1,0 +1,25 @@
+{
+  "name": "uni_bot",
+  "version": "0.0.1",
+  "description": "Discord Bot For UnicoRRn Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeTa/discord_bot.git"
+  },
+  "author": "Alucard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillaumeTa/discord_bot/issues"
+  },
+  "homepage": "https://github.com/GuillaumeTa/discord_bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0"
+  }
+}
